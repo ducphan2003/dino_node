@@ -1,0 +1,2 @@
+npm run watch: đồng bộ file .scss
+npm start: đồng bộ .js .json
